@@ -1,6 +1,6 @@
 # Oracle 설치
 
-Mac에서 Oracle 사용
+## Mac에서 Oracle 사용
 
 다운로드 할 이미지 찾기
 
